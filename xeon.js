@@ -1,3 +1,3 @@
 {
-	"name": "introvert-bot"
+	"name": "introvert-bt"
 }
